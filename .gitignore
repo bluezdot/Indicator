@@ -1,0 +1,11 @@
+**/__pycache__
+
+**/.idea
+
+# my files
+notebooks/test_pandas.ipynb
+tests/test_np.py
+indicator/utils/validate.py
+indicator/utils/validator.py
+data_
+gen_data.py
